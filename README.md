@@ -1,8 +1,8 @@
 # LEOS F26 Power PCB
 
-![3D render of the LEOS F26 Power PCB](screenshots/3D.png)
+![3D render of the Power Conversion PCB](screenshots/3D.png)
 
-This repository contains the KiCad design files for the LEOS power board made fall 2026. The board is designed to accept power from a 6S LiPo battery, provide input protection, and generate adjustable DC output for other LEOS components. This board also includes the base elements from the template board.
+This repository contains the KiCad design files for the Lightning from the Edge of Space research project power board made fall 2026. The board is designed to accept power from a 6S LiPo battery, provide input protection, and generate adjustable DC output for other LEOS components. This board also includes the base elements from the template board.
 
 The design uses a Texas Instruments TPS16630 eFuse for input protection and two TPS54540B buck converters for voltage regulation. A Raspberry Pi Pico controls the output voltage through the MCP41100 SPI digital potentiometer in one of the buck converter's feedback network. 
 
