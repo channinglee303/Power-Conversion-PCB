@@ -1,5 +1,11 @@
 # Power Conversion PCB
 
+![Layout1](Screenshots/Layout1.png)
+![Layout2](Screenshots/Layout2.png)
+![Layout3](Screenshots/Layout3.png)
+![Layout4](Screenshots/Layout4.png)
+![Layout5](Screenshots/Layout5.png)
+![Layout6](Screenshots/Layout6.png)
 ![3D render of the Power Conversion PCB](Screenshots/3D.png)
 
 This repository contains the KiCad design files for the Lightning from the Edge of Space research project power board made fall 2026. The board is designed to accept power from a 6S LiPo battery, provide input protection, and generate adjustable DC output for other LEOS components. This board also includes the standard Raspberry Pi Pico and CAN-FD network.
