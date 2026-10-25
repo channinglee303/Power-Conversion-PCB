@@ -31,4 +31,6 @@ Buck converter: TPS54540B
 eFuse: TPS16630
 Digital potentiometer: MCP41100T-I/SN
 Control interface: SPI from Raspberry Pi Pico
+CAN-FD controller: MCP2518FD
+CAN-FD transceiver: MCP2562FD
 
